@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Program/QEngine/build",
+  "command": "D:\\winlibs-x86_64-posix-seh-gcc-16.2.0-mingw-w64ucrt-14.0.0-r2\\mingw64\\bin\\g++.exe  @CMakeFiles\\runner.dir\\includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -O3 -o CMakeFiles\\runner.dir\\test.cpp.obj -c D:\\Program\\QEngine\\test.cpp",
+  "file": "D:/Program/QEngine/test.cpp",
+  "output": "CMakeFiles/runner.dir/test.cpp.obj"
+}
+]

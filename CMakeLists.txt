@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.20)
+project(QMath)
+set(CMAKE_CXX_STANDARD 17)
+add_compile_options(-Wall)
+add_compile_options(-Wextra)
+add_compile_options(-O3)
+include_directories(${PROJECT_SOURCE_DIR}/includes)
+add_executable(runner test.cpp)
